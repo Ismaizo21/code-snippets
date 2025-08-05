@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Snippets - Application de Partage
 
 Une application moderne pour partager et organiser vos snippets de code avec React, TypeScript et Tailwind CSS.
@@ -86,3 +87,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou un
 ## 📄 Licence
 
 MIT License - voir le fichier LICENSE pour plus de détails.
+=======
+# code-snippets
+>>>>>>> 73108a82c75384700a39bc702e88327118240614
